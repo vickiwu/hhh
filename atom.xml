@@ -3,11 +3,11 @@
   <title>vickwu的世界</title>
   
   <subtitle>to be your love</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/vickiwu.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://vickiwu.github.io/"/>
   <updated>2020-07-15T07:54:22.936Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://vickiwu.github.io/</id>
   
   <author>
     <name>vickiwu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/07/15/hello-world/"/>
-    <id>http://yoursite.com/2020/07/15/hello-world/</id>
+    <link href="https://vickiwu.github.io/2020/07/15/hello-world/"/>
+    <id>https://vickiwu.github.io/2020/07/15/hello-world/</id>
     <published>2020-07-15T07:54:22.936Z</published>
     <updated>2020-07-15T07:54:22.936Z</updated>
     
